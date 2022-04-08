@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.메모리 동적 할당", "16.메모리 동적 할당\16.메모리 동적 할당.vcxproj", "{B6246145-418A-4D8F-8A4F-38F6E74EA300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6246145-418A-4D8F-8A4F-38F6E74EA300}.Debug|x64.ActiveCfg = Debug|x64
+		{B6246145-418A-4D8F-8A4F-38F6E74EA300}.Debug|x64.Build.0 = Debug|x64
+		{B6246145-418A-4D8F-8A4F-38F6E74EA300}.Debug|x86.ActiveCfg = Debug|Win32
+		{B6246145-418A-4D8F-8A4F-38F6E74EA300}.Debug|x86.Build.0 = Debug|Win32
+		{B6246145-418A-4D8F-8A4F-38F6E74EA300}.Release|x64.ActiveCfg = Release|x64
+		{B6246145-418A-4D8F-8A4F-38F6E74EA300}.Release|x64.Build.0 = Release|x64
+		{B6246145-418A-4D8F-8A4F-38F6E74EA300}.Release|x86.ActiveCfg = Release|Win32
+		{B6246145-418A-4D8F-8A4F-38F6E74EA300}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDE1998C-5BED-496F-A524-55E3E7066B00}
+	EndGlobalSection
+EndGlobal
