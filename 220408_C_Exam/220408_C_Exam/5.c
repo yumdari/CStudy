@@ -5,7 +5,7 @@ char* my_strcpy(char* pd, char* ps) {
 
 	for(int idx = 0; idx < 20; idx++)
 		{
-			if (pd[idx] == '0') { // null 값이 나올 때까지 count
+			if (pd[idx] == '\0') { // null 값이 나올 때까지 count
 				break;
 			}
 			cnt++;
