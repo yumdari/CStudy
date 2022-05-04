@@ -1,0 +1,4 @@
+﻿  16-4.c
+C:\Users\KCCI28\source\repos\16.메모리 동적 할당\16.메모리 동적 할당\16-4.c(12,7): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\KCCI28\source\repos\16.메모리 동적 할당\16.메모리 동적 할당\16-4.c(13,34): warning C4013: 'strlne'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\KCCI28\source\repos\16.메모리 동적 할당\16.메모리 동적 할당\16-4.c(14,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
