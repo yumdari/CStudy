@@ -1,0 +1,48 @@
+﻿  ex4_2.c
+C:\Users\KCCI28\source\repos\DeleteLinkedList\ex4_2.c(8,7): warning C4133: '=': 'listNode *'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\ex4_2.c(12,18): warning C4133: '함수': 'int *'과(와) 'linkedList_h *' 사이의 형식이 호환되지 않습니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\ex4_2.c(13,18): warning C4133: '함수': 'int *'과(와) 'linkedList_h *' 사이의 형식이 호환되지 않습니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\ex4_2.c(14,18): warning C4133: '함수': 'int *'과(와) 'linkedList_h *' 사이의 형식이 호환되지 않습니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\ex4_2.c(15,13): warning C4133: '함수': 'int *'과(와) 'linkedList_h *' 사이의 형식이 호환되지 않습니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\ex4_2.c(18,18): warning C4133: '함수': 'int *'과(와) 'linkedList_h *' 사이의 형식이 호환되지 않습니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\ex4_2.c(27,20): warning C4133: '함수': 'int *'과(와) 'linkedList_h *' 사이의 형식이 호환되지 않습니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\ex4_2.c(28,13): warning C4133: '함수': 'int *'과(와) 'linkedList_h *' 사이의 형식이 호환되지 않습니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\ex4_2.c(31,18): warning C4133: '함수': 'int *'과(와) 'linkedList_h *' 사이의 형식이 호환되지 않습니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\ex4_2.c(32,14): warning C4133: '함수': 'int *'과(와) 'linkedList_h *' 사이의 형식이 호환되지 않습니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\ex4_2.c(33,13): warning C4133: '함수': 'int *'과(와) 'linkedList_h *' 사이의 형식이 호환되지 않습니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\ex4_2.c(36,11): warning C4133: '함수': 'int *'과(와) 'linkedList_h *' 사이의 형식이 호환되지 않습니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\ex4_2.c(37,13): warning C4133: '함수': 'int *'과(와) 'linkedList_h *' 사이의 형식이 호환되지 않습니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\ex4_2.c(39,20): warning C4133: '함수': 'int *'과(와) 'linkedList_h *' 사이의 형식이 호환되지 않습니다.
+  LinkedList.c
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(16,28): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(18,19): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(19,9): warning C4047: '=': 'listNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(20,8): error C2100: 간접 참조가 잘못되었습니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(27,21): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(30,8): warning C4047: '=': 'listNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(41,27): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(45,21): error C2223: '->head' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(46,5): error C2223: '->head' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(50,28): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(54,9): error C2223: '->head' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(56,6): error C2223: '->head' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(59,22): error C2223: '->head' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(60,6): error C2223: '->head' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(69,26): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(75,9): error C2223: '->head' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(76,6): error C2223: '->head' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(80,12): error C2223: '->head' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(88,22): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(90,9): error C2223: '->head' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(93,9): error C2223: '->head' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(94,11): error C2223: '->head' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(94,7): error C2198: 'free': 호출에 인수가 너무 적습니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(95,6): error C2223: '->head' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(100,12): error C2223: '->head' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(110,27): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(112,12): error C2223: '->head' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(122,19): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(127,9): error C2223: '->head' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+C:\Users\KCCI28\source\repos\DeleteLinkedList\LinkedList.c(140,5): error C2223: '->head' 왼쪽은 구조체/공용 구조체를 가리켜야 합니다.
+  코드를 생성하고 있습니다...
+C:\Users\KCCI28\source\repos\DeleteLinkedList\ex4_2.c(8): error C4700: 초기화되지 않은 'p' 지역 변수를 사용했습니다.
