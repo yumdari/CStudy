@@ -3,12 +3,14 @@
 char* my_strcat(char* str1, char* str2);
 
 int main(int argc, char * argv[]) {	// argc : 전달인자의 갯수, argv : 전달된 인자들의 포인터 배열
+									// 명령어 아규먼트, argument count : 문자의 갯수.
+									// argv : 
 	
-	int num0 = 0;
-	int num1 = 1;
-	int num2 = 2;
+	//int num0 = 0;
+	//int num1 = 1;
+	//int num2 = 2;
 
-	printf("test : %d\n", *(&num2 + 3));
+	//printf("test : %d\n", *(&num2 + 3));
 	char fruit[80] = "straw";
 	my_strcat(fruit, "berry");
 	printf("연결된 문자열 : %s\n", fruit);
